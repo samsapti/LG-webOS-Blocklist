@@ -3,9 +3,13 @@
 This is a DNS blocklist that attempts to block ads, tracking and
 recommendations on LG webOS TVs. The blocklist attempts to avoid as much
 breakage as possible, meaning it ONLY blocks stuff that doesn't break normal
-functionality and features of webOS.
+functionality and features of webOS. The blocklist only blocks what's left
+after disabling as much tracking in the settings as possible, meaning you're
+expected to have gone through your TV settings and disabled as much as possible
+before using this list.
 
-The list is written in ABP syntax, so it's compatible with newer Pi-hole versions.
+The list is written in ABP syntax, so it's compatible with newer Pi-hole
+versions.
 
 To use it, add
 [this link](https://raw.githubusercontent.com/samsapti/LG-webOS-Blocklist/main/list.txt)
