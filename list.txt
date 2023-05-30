@@ -1,0 +1,9 @@
+! Blocks ads, tracking and recommendations
+||ad.lgappstv.com^
+||lgsmartad.com^
+||homeprv.lgtvcommon.com^
+||rdx2.lgtvsdp.com^
+||lgtvonline.lge.com^
+||nudge.lgtvcommon.com^
+||recommend.lgtvcommon.com^
+||www.ueiwsp.com^
