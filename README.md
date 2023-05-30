@@ -15,6 +15,11 @@ to your ABP-compatible ad-blocker, or copy it below:
 https://raw.githubusercontent.com/samsapti/LG-webOS-Blocklist/main/list.txt
 ```
 
+## Contributing
+
+Contributions are very welcome, as I'm only able to test this on my own setup.
+Yours might differ.
+
 ## License
 
 This list is published under the MIT license.
