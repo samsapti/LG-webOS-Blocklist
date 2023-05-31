@@ -1,8 +1,8 @@
 ! Blocks ads, tracking and recommendations
 ||lgsmartad.com^
 ||ad.lgappstv.com^
-||lgrecommends.lgappstv.com^
 ||recommend.lgtvcommon.com^
+||service.lgtvcommon.com^
 ||homeprv.lgtvcommon.com^
 ||nudge.lgtvcommon.com^
 ||rdx2.lgtvsdp.com^
